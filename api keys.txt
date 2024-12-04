@@ -1,0 +1,15 @@
+deppgram api 2f599ab48cd5287f50f0aa17e7f05159e1bdfca8
+
+likekit
+WebSocket URL
+wss://hotel-zfa0r9qc.livekit.cloud
+API Key
+APIJcqi5rUmCzTA
+Secret Key
+8KgRUmUMRd9KfICMJ71BM9foSOaXJLJ6lV3ebWWSrQrA
+
+Cartesia
+sk_car_q_IHbLTXgAFj9UgjZ9yar
+
+Cerebras 
+csk-h6rpcytc6t4d5248tfy9vcxd8fmfptd8mhvk2yhfecyyw64f
