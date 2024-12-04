@@ -13,3 +13,8 @@ sk_car_q_IHbLTXgAFj9UgjZ9yar
 
 Cerebras 
 csk-h6rpcytc6t4d5248tfy9vcxd8fmfptd8mhvk2yhfecyyw64f
+git remote add origin https://github.com/skybluer1/fast-voice-assistant.git
+
+
+git config --global user.name "skybluer1"
+git config --global user.email "mkgconcept@gmail.com"
